@@ -1,0 +1,4 @@
+name: ecommerce-web
+recipe: drupal8
+config:
+  webroot: .
